@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = Nirooba_blog 
+  url = git://github.com/nirooba98/Nirooba_blog
